@@ -1,0 +1,85 @@
+Source: Reddit r/personalfinance - "Best budgeting advice for college students working part-time"
+URL: https://www.reddit.com/r/personalfinance/wiki/young_adult
+Type: Community Wiki/Thread Compilation
+
+---
+
+Personal Finance Guide for Young Adults and Working Students
+
+This is a compilation of advice commonly shared on r/personalfinance for college students managing money while working part-time jobs.
+
+The 50/30/20 Rule Adapted for Students
+
+The standard 50/30/20 rule (50% needs, 30% wants, 20% savings) needs adjustment for students because tuition and fees skew the numbers. Here's the student version:
+
+- 60% Needs: Rent, utilities, groceries, transportation, phone, minimum debt payments
+- 20% Wants: Eating out, entertainment, subscriptions, hobbies
+- 20% Savings/Debt: Emergency fund first, then extra debt payments
+
+If you're working 15-20 hours per week at minimum wage (~$1,000-$1,300/month), your budget might look like:
+- Rent (with roommates): $400-600
+- Groceries: $150-200
+- Transportation: $50-100 (bus pass or gas)
+- Phone: $30-50
+- Utilities (split): $50-75
+- Remaining for wants/savings: $100-300
+
+Emergency Fund Priority
+
+The #1 piece of advice: Build a $1,000 emergency fund before anything else. When you're working part-time and studying, one unexpected expense (car repair, medical bill, broken laptop) can derail your entire semester. Keep this money in a separate high-yield savings account you don't touch.
+
+Common Financial Mistakes Students Make
+
+1. Not tracking spending at all - "I just check my bank balance" isn't budgeting
+2. Signing up for credit cards with high limits without understanding interest
+3. Spending financial aid refunds on non-essentials immediately
+4. Not negotiating rent with roommates (splitting by room size, not equally)
+5. Paying for subscriptions they forgot about (audit monthly)
+6. Not using student discounts everywhere (Spotify, Amazon Prime, software, museums)
+7. Buying new textbooks instead of renting, using library copies, or older editions
+8. Eating out because "I'm too busy to cook" - this is where meal prep pays off
+
+Student Discount Strategies
+
+Many companies offer significant student discounts that working students miss out on:
+- Spotify/Hulu bundle: ~$6/month instead of $22+
+- Amazon Prime Student: 50% off
+- Apple Music: Student plan at $5.99/month
+- Adobe Creative Cloud: 60%+ off
+- Public transit: Most cities offer student passes at 25-50% off
+- Gym memberships: Most campus gyms are free with tuition
+- Software: GitHub Student Pack gives $1000s in free developer tools
+- Food: Chipotle, Chick-fil-A, and others sometimes offer student deals
+
+Banking Tips for Working Students
+
+- Use a no-fee checking account (many banks offer student accounts)
+- Set up automatic transfers to savings on payday
+- Use cash-back apps (Rakuten, Ibotta) for purchases you'd make anyway
+- Avoid overdraft fees by setting up low-balance alerts
+- If your employer offers direct deposit splitting, send a portion directly to savings
+
+Tax Considerations for Part-Time Student Workers
+
+- If you earn under ~$14,600/year (2024 standard deduction), you may owe no federal tax
+- Still file a return to get any withheld taxes back as a refund
+- Track work-related expenses if you freelance (mileage, supplies)
+- Look into education tax credits: American Opportunity Credit ($2,500) and Lifetime Learning Credit ($2,000)
+- Your employer might classify you as a contractor (1099) - set aside 25-30% for taxes
+
+When to Pick Up Extra Shifts vs. Study
+
+A common dilemma for working students. General framework:
+- If an extra shift pays less than what losing study time would cost in GPA impact, skip it
+- Summer and breaks: maximize work hours and save for the semester
+- During finals: prioritize grades over extra money
+- Consider: losing a scholarship from low GPA costs way more than extra shift money
+
+Dealing with Irregular Income
+
+Many part-time student jobs have variable hours. Strategies:
+- Budget based on your lowest expected monthly income
+- Create a "buffer" category for months when you earn more
+- If possible, work jobs with guaranteed minimum hours
+- Track your hours and income weekly, not just monthly
+- Communicate with your manager about needing consistent scheduling for school

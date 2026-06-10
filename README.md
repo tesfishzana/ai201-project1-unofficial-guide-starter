@@ -9,10 +9,7 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+Off-campus survival guides for college students who work part-time. This system covers budgeting, apartment hunting, meal prep, time management, commuting, safety, burnout prevention, and employer tuition benefits — the practical knowledge that working students need but is scattered across Reddit threads, personal finance blogs, and student life articles. University websites rarely address the reality of students who must work to afford school, making this knowledge hard to find through official channels.
 
 ---
 
@@ -24,16 +21,18 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Fastweb - College Housing Options | Article | https://www.fastweb.com/student-life/articles/how-to-pick-housing-for-college-students |
+| 2 | Fastweb - Juggling Part-Time Work | Article | https://www.fastweb.com/student-life/articles/how-to-juggle-part-time-work-and-scholarship-applications |
+| 3 | Fastweb - Fast Food Jobs Tuition | Article | https://www.fastweb.com/student-life/articles/four-fast-food-jobs-thatll-pay-your-college-tuition |
+| 4 | CNBC Select - Student Budgeting | Article | https://www.cnbc.com/select/budgeting-tips-for-college-students/ |
+| 5 | Budget Bytes - Meal Prep | Recipe/Guide | https://www.budgetbytes.com/category/extra-bytes/budget-friendly-meal-prep/ |
+| 6 | Reddit r/personalfinance | Wiki/Forum | https://www.reddit.com/r/personalfinance/wiki/young_adult |
+| 7 | Reddit r/college - Commuting | Forum thread | https://www.reddit.com/r/college/ |
+| 8 | Reddit r/college - Apartment Hunting | Forum thread | https://www.reddit.com/r/college/ |
+| 9 | Reddit r/college - Safety Tips | Forum thread | https://www.reddit.com/r/college/ |
+| 10 | Reddit r/college - Burnout Prevention | Forum thread | https://www.reddit.com/r/college/ |
+| 11 | Reddit r/LifeProTips - Time Management | Forum thread | https://www.reddit.com/r/LifeProTips/ |
+| 12 | Reddit r/povertyfinance - Min Wage Survival | Forum thread | https://www.reddit.com/r/povertyfinance/ |
 
 ---
 

@@ -9,7 +9,7 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+Off-campus survival guides for college students who work part-time. This domain covers the practical, day-to-day knowledge that working students need but can't find in one place: budgeting on minimum wage, finding apartments, balancing work shifts with class schedules, meal prepping on a tight budget, staying safe in off-campus housing, avoiding burnout, and navigating employer tuition benefits. This knowledge is valuable because it's scattered across dozens of Reddit threads, personal finance blogs, and student life articles — and university websites almost never address the reality of students who must work to survive.
 
 ---
 
@@ -20,16 +20,18 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Fastweb | College housing options: dorms vs off-campus decision guide | https://www.fastweb.com/student-life/articles/how-to-pick-housing-for-college-students |
+| 2 | Fastweb | How to juggle part-time work and scholarship applications | https://www.fastweb.com/student-life/articles/how-to-juggle-part-time-work-and-scholarship-applications |
+| 3 | Fastweb | Fast food jobs that pay for college tuition (tuition assistance programs) | https://www.fastweb.com/student-life/articles/four-fast-food-jobs-thatll-pay-your-college-tuition |
+| 4 | CNBC Select | 5 budgeting tips for college students | https://www.cnbc.com/select/budgeting-tips-for-college-students/ |
+| 5 | Budget Bytes | Budget-friendly meal prep ideas and strategies | https://www.budgetbytes.com/category/extra-bytes/budget-friendly-meal-prep/ |
+| 6 | Reddit r/personalfinance | Personal finance guide for young adults and working students | https://www.reddit.com/r/personalfinance/wiki/young_adult |
+| 7 | Reddit r/college | Tips for commuting students who work part-time | https://www.reddit.com/r/college/ |
+| 8 | Reddit r/college | Off-campus apartment hunting tips for students | https://www.reddit.com/r/college/ |
+| 9 | Reddit r/college | How to stay safe living off-campus | https://www.reddit.com/r/college/ |
+| 10 | Reddit r/college & r/GetMotivated | Avoiding burnout as a working student | https://www.reddit.com/r/college/ |
+| 11 | Reddit r/LifeProTips | Time management hacks for students with jobs | https://www.reddit.com/r/LifeProTips/ |
+| 12 | Reddit r/povertyfinance & r/Frugal | Surviving on minimum wage while in school | https://www.reddit.com/r/povertyfinance/ |
 
 ---
 
